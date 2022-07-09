@@ -1,2 +1,13 @@
-# DIO_Desafio_Git_GitHub_Primeiro_Repositorio
-Desafio 1 - Criando primeiro repositório
+# DIO Desafio Git/GitHub - Primeiro Repositorio
+
+
+## Desafio 1 - Criando primeiro repositório
+
+### Index de Projetos
+
+
+
+
+
+
+Início: Julho/2022
